@@ -1,4 +1,4 @@
-fn fn main() {
+ fn main() {
 	let result = 10.00;   //f64 by defualt	
 	let interest:f32 = 8.35;
 	let cost:f64 = 15000.600;

@@ -9,5 +9,5 @@ fn main() {
 	println!("School rating on 5 is: {}",rating_float );
 	println!("School is growing :{}",is_growing_boolean);
 	println!("Number of Departments : {}",department_integer );
-
+	
 }
